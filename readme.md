@@ -8,7 +8,7 @@ Block Fund is a decentralized crowdfunding platform built on the Ethereum blockc
 ![Block Fund Banner](https://github.com/user-attachments/assets/66e9df64-2e5d-4c94-87de-c0d17d6e2fa4)
 ## 📌 Create Campaign
 ![Block Fund Banner](https://github.com/user-attachments/assets/23b1d0fe-1f37-433d-b971-f655fd3d0019)
-## 📌 Create Campaign
+## 
 ![Block Fund Banner](https://github.com/user-attachments/assets/aa0b407a-b2f5-461c-a2ba-3cf35195e26a)
 
 
