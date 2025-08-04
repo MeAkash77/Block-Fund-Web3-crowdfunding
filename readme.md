@@ -3,6 +3,62 @@
 
 Block Fund is a decentralized crowdfunding platform built on the blockchain, leveraging the power of React for the frontend. This platform allows users to create and contribute to crowdfunding campaigns securely and transparently.
 
+# 🚀 Block Fund - Decentralized Crowdfunding Platform
+
+Block Fund is a decentralized crowdfunding platform built on the Ethereum blockchain. It empowers users to create and support campaigns using smart contracts, ensuring **transparency**, **security**, and **trust** through blockchain technology.
+
+![Block Fund Banner](https://your-image-link-if-any.png)
+
+---
+
+## 📌 Table of Contents
+
+- [🔍 Features](#-features)
+- [⚙️ Tech Stack](#️-tech-stack)
+- [🖥️ Project Structure](#️-project-structure)
+- [🛠️ Installation & Setup](#️-installation--setup)
+- [💡 Usage](#-usage)
+- [📄 Smart Contract Overview](#-smart-contract-overview)
+- [📸 Screenshots](#-screenshots)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+
+---
+
+## 🔍 Features
+
+- ✅ **Decentralized** platform on Ethereum
+- 🔐 **Smart contracts** to manage campaigns securely
+- 👛 **Wallet integration** with MetaMask
+- 📱 **Responsive** frontend with React & Vite
+- 🔄 **Real-time updates** on campaigns
+- 📊 **Goal tracking** and automatic status changes
+- 🌐 **MongoDB backend** for off-chain data storage
+
+---
+
+## ⚙️ Tech Stack
+
+| Layer         | Tools / Technologies                           |
+|---------------|------------------------------------------------|
+| 💻 Frontend   | React, Vite, Tailwind CSS                      |
+| 🔗 Blockchain | Solidity, Hardhat, Ethers.js, Web3.js          |
+| 🧠 Backend    | Node.js, Express.js, MongoDB, Mongoose         |
+| 🦊 Wallet     | MetaMask                                       |
+| 📦 Tooling    | dotenv, ts-node, TypeScript                    |
+
+---
+
+## 🖥️ Project Structure
+
+
+
+
+
+
+
+
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
