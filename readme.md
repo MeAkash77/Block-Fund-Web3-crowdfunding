@@ -1,6 +1,3 @@
-# 🚀 Block Fund - Decentralized Crowdfunding Platform
-
-
 <h1 align="center">🧱 Block Fund - Decentralized Crowdfunding Platform</h1>
 
 <p align="center">
@@ -14,25 +11,6 @@
   <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=flat-square&logo=mongodb" />
   <img src="https://img.shields.io/badge/Web3-MetaMask-orange?style=flat-square&logo=metamask" />
 </p>
-
----
-
-## 📖 Overview
-
-**Block Fund** is a Web3-based crowdfunding platform where users can launch and contribute to campaigns with **full transparency**, **decentralized control**, and **blockchain immutability**. Powered by Ethereum smart contracts, it eliminates middlemen and ensures that contributions are securely managed via code.
-
----
-
-## 🚀 Features
-
-- 🔗 Decentralized Campaign Hosting
-- 👛 MetaMask Wallet Integration
-- 📈 Real-Time Fund Tracking
-- ⏱️ Deadline-Based Campaign Logic
-- 🧾 Blockchain-Powered Transparency
-- 📱 Mobile-Responsive UI
-
----
 
 ## ⚙️ Tech Stack & Tools
 
