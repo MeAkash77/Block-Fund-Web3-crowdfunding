@@ -1,5 +1,60 @@
 # 🚀 Block Fund - Decentralized Crowdfunding Platform
 
+
+<h1 align="center">🧱 Block Fund - Decentralized Crowdfunding Platform</h1>
+
+<p align="center">
+  A secure, transparent, and blockchain-powered crowdfunding platform built with React, Solidity, and Hardhat.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SmartContract-Solidity-blue?style=flat-square&logo=ethereum" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Web3-MetaMask-orange?style=flat-square&logo=metamask" />
+</p>
+
+---
+
+## 📖 Overview
+
+**Block Fund** is a Web3-based crowdfunding platform where users can launch and contribute to campaigns with **full transparency**, **decentralized control**, and **blockchain immutability**. Powered by Ethereum smart contracts, it eliminates middlemen and ensures that contributions are securely managed via code.
+
+---
+
+## 🚀 Features
+
+- 🔗 Decentralized Campaign Hosting
+- 👛 MetaMask Wallet Integration
+- 📈 Real-Time Fund Tracking
+- ⏱️ Deadline-Based Campaign Logic
+- 🧾 Blockchain-Powered Transparency
+- 📱 Mobile-Responsive UI
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+| Layer       | Technology                                      |
+|-------------|--------------------------------------------------|
+| 💻 Frontend | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) |
+| ⛓ Blockchain | ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white) ![Hardhat](https://img.shields.io/badge/-Hardhat-FCBA03?logo=ethereum&logoColor=white) ![Ethers.js](https://img.shields.io/badge/-Ethers.js-6E86FF?logo=ethereum) |
+| 🧠 Backend  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| 🔐 Auth     | ![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?logo=metamask&logoColor=white) |
+| ⚙️ Tooling | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![dotenv](https://img.shields.io/badge/-dotenv-000000?logo=dotenv&logoColor=white) ![ts-node](https://img.shields.io/badge/-ts--node-3178C6?logo=typescript&logoColor=white) |
+
+---
+
+## 📁 Project Structure
+
+
+
+
+
+
+
+
 Block Fund is a decentralized crowdfunding platform built on the Ethereum blockchain. It empowers users to create and support campaigns using smart contracts, ensuring **transparency**, **security**, and **trust** through blockchain technology and Block Fund is a full-stack decentralized crowdfunding platform that integrates modern web technologies with blockchain. Built using React, Node.js, MongoDB, and Ethereum smart contracts, it allows users to seamlessly launch and contribute to campaigns in a trustless and transparent environment. The frontend connects to MetaMask for wallet authentication, while the backend stores off-chain data securely. On the blockchain side, Solidity smart contracts manage the creation, funding, and withdrawal logic of campaigns, ensuring immutability and fairness. Block Fund serves as a modern, Web3 alternative to platforms like GoFundMe, empowering creators and contributors to interact without intermediaries.
 
 ![Block Fund Banner](https://github.com/user-attachments/assets/e6dd580b-53a6-4df1-a45f-b233436c815d)
