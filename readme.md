@@ -1,6 +1,8 @@
 # 🚀 Block Fund - Decentralized Crowdfunding Platform
 
-Block Fund is a decentralized crowdfunding platform built on the Ethereum blockchain. It empowers users to create and support campaigns using smart contracts, ensuring **transparency**, **security**, and **trust** through blockchain technology.
+Block Fund is a decentralized crowdfunding platform built on the Ethereum blockchain. It empowers users to create and support campaigns using smart contracts, ensuring **transparency**, **security**, and **trust** through blockchain technology and Block Fund is a full-stack decentralized crowdfunding platform that integrates modern web technologies with blockchain. Built using React, Node.js, MongoDB, and Ethereum smart contracts, it allows users to seamlessly launch and contribute to campaigns in a trustless and transparent environment. The frontend connects to MetaMask for wallet authentication, while the backend stores off-chain data securely. On the blockchain side, Solidity smart contracts manage the creation, funding, and withdrawal logic of campaigns, ensuring immutability and fairness. Block Fund serves as a modern, Web3 alternative to platforms like GoFundMe, empowering creators and contributors to interact without intermediaries.
+
+.
 
 ![Block Fund Banner](https://github.com/user-attachments/assets/e6dd580b-53a6-4df1-a45f-b233436c815d)
 ## 📌 Functionalities
