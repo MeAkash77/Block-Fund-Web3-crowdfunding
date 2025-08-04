@@ -1,4 +1,3 @@
----
 # 🚀 Block Fund - Decentralized Crowdfunding Platform
 
 Block Fund is a decentralized crowdfunding platform built on the Ethereum blockchain. It empowers users to create and support campaigns using smart contracts, ensuring **transparency**, **security**, and **trust** through blockchain technology.
