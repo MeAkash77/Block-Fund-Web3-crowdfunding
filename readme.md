@@ -113,7 +113,7 @@ To get started with Block Fund, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/hassan4702/block-fund.git
+    git clone https://github.com/MeAkash77/Block-Fund-Web3-crowdfunding.git
     cd block-fund
     ```
 
